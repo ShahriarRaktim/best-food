@@ -60,13 +60,13 @@ span{
     margin-right: 3%;
     margin-top: 5%;
     margin-bottom: 5%;
-    background-color: ;
 }
 .third-width{
     width: 33.33%;
-    background-image: linear-gradient(white,lightcyan);
-    box-shadow: 10px 10px 100px lightcyan;
-    border: 10px solid red;
+    background-image: linear-gradient(white,white);
+    border: 10px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px #07070760;
     margin-right: 50px;
     padding: 15px;
 }

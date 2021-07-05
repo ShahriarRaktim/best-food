@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width: 50%;
+    margin-left: 10%;
+}
+.first-container{
+    display: flex;
+}
+span{
+    color: orangered;
+}
+.padding{
+    padding-top: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: justify;
+}
+h3{
+    
+}

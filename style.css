@@ -49,3 +49,8 @@ span{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.center{
+    color: #681313;
+    text-align: center;
+    margin: 2% 30%;
+}

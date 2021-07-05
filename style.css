@@ -54,3 +54,23 @@ span{
     text-align: center;
     margin: 2% 30%;
 }
+.container-three{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 3%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: ;
+}
+.third-width{
+    width: 33.33%;
+    background-image: linear-gradient(white,lightcyan);
+    box-shadow: 10px 10px 100px lightcyan;
+    border: 10px solid red;
+    margin-right: 50px;
+    padding: 15px;
+}
+.third-width img{
+    width: 500px;
+    height: 400px;
+}

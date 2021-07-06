@@ -2,10 +2,14 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
-.half-width{
-    width: 50%;
-    margin-left: 10%;
-    
+.food-bg{
+    background-image: url(images/Project\ Cover4.png);
+}
+.align-center{
+    font-weight: bolder;
+    font-size: 100px;
+    text-align: center;
+    color: cyan;
 }
 .container{
     display: flex;
@@ -13,6 +17,10 @@ body{
 }
 span{
     color: orangered;
+}
+.half-width{
+    width: 50%;
+    margin-left: 10%;
 }
 .padding-one{
     padding-top: 15%;
@@ -29,10 +37,10 @@ span{
     border-radius: 20px;
     box-shadow: 5px 5px 20px greenyellow;
 }
-.picture{
+.half-width-two{
     width: 50%;
 }
-.picture img{
+.half-width-two img{
     width: 50%;
     margin-left: 20%;
 }

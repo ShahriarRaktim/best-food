@@ -82,3 +82,25 @@ span{
     width: 500px;
     height: 400px;
 }
+.container-four{
+    display: flex;
+    margin: 5% 20% 5% 25%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px rgba(43, 41, 41, 0.315);
+}
+.four-width{
+    width: 33.33%;
+    text-align: center;
+    padding: 3%;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding-top: 3%;
+    padding-bottom: 6%;
+}
+   
+
+

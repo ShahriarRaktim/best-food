@@ -11,7 +11,7 @@ body{
     text-align: center;
     color: cyan;
 }
-.container{
+.first-container{
     display: flex;
     margin-bottom: 200px;
 }
@@ -23,9 +23,7 @@ span{
     margin-left: 10%;
 }
 .padding-one{
-    padding-top: 15%;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding: 15% 10% 0 10%;
     text-align: justify;
 }
 .link-button{
@@ -45,9 +43,7 @@ span{
     margin-left: 20%;
 }
 .padding-two{
-    padding-top: 5%;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding: 5% 10% 5% 20%;
     text-align: justify;
     
 }
@@ -64,10 +60,7 @@ span{
 }
 .container-three{
     display: flex;
-    margin-left: 5%;
-    margin-right: 3%;
-    margin-top: 5%;
-    margin-bottom: 5%;
+    margin: 5% 3% 5% 5%;
 }
 .third-width{
     width: 33.33%;
